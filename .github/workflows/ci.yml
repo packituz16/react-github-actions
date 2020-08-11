@@ -17,3 +17,4 @@ job:
       - run: npm test -- coverage
         env:
           CI: true
+
